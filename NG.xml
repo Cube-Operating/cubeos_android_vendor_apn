@@ -30,8 +30,6 @@
         authtype="3"
         mmsc=""
         password="wap"
-        port="8080"
-        proxy="192.168.165.201"
         type="default,supl"
         user="wap@wap.com"
     />
@@ -41,7 +39,6 @@
         carrier="MTN NG"
         apn="web.gprs.mtnnigeria.net"
         password="web"
-        proxy="10.199.212.2"
         type="default,supl"
         user="web"
     />
@@ -64,8 +61,6 @@
         apn="glo3gvideo"
         mmsc=""
         password=""
-        port=""
-        proxy="10.100.98.22"
         type="default,supl"
         user=""
     />
@@ -87,7 +82,6 @@
         carrier="Glo Mobile Internet"
         apn="gloflat"
         password="flat"
-        proxy="10.100.98.22"
         type="default,supl"
         user="flat"
     />
